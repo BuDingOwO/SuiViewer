@@ -15,6 +15,7 @@ namespace Config {
     ImVec4 ClearColor = ImVec4(0.90, 0.75, 0.75, 1);
 
     iVec2 WindowAttr = {1280, 720};
+
 }
 
 namespace DebugConfig {
